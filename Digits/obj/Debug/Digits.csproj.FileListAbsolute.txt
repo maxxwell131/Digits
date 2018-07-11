@@ -1,0 +1,10 @@
+D:\[C#]\Project_s\Digits\Digits\bin\Debug\Digits.exe.config
+D:\[C#]\Project_s\Digits\Digits\bin\Debug\Digits.exe
+D:\[C#]\Project_s\Digits\Digits\bin\Debug\Digits.pdb
+D:\[C#]\Project_s\Digits\Digits\obj\Debug\Digits.csprojAssemblyReference.cache
+D:\[C#]\Project_s\Digits\Digits\obj\Debug\Digits.FormDigits.resources
+D:\[C#]\Project_s\Digits\Digits\obj\Debug\Digits.Properties.Resources.resources
+D:\[C#]\Project_s\Digits\Digits\obj\Debug\Digits.csproj.GenerateResource.cache
+D:\[C#]\Project_s\Digits\Digits\obj\Debug\Digits.csproj.CoreCompileInputs.cache
+D:\[C#]\Project_s\Digits\Digits\obj\Debug\Digits.exe
+D:\[C#]\Project_s\Digits\Digits\obj\Debug\Digits.pdb
